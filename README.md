@@ -1,4 +1,0 @@
-OpenGL
-======
-
-about OpenGL test.

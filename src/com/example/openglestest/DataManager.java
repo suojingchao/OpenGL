@@ -8,11 +8,11 @@ public class DataManager {
         
        private static Bitmap mBitmap;  
         
-       public static void init(Resources res){  
+      /* public static void init(Resources res){  
               mBitmap = BitmapFactory.decodeResource(res, R.drawable.ic_launcher);  
-       }  
+       }  */
         
        public static Bitmap getBitmap(){  
               return mBitmap;  
        }  
-}  
+}   
